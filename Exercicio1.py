@@ -1,4 +1,4 @@
-#Leandro Loffeu Pereira Costa 202212089 - Ainda estou trabalhando
+#Leandro Loffeu Pereira Costa 202212089 - Ainda estou trabalhando no exercicio
 # Dados fictícios de temperatura, umidade e pressão para um dia específico (vigésimo dia)
 temperaturas = [25.5, 26.2, 25.7] 
 umidades = [60, 62, 58] 
